@@ -1,5 +1,5 @@
 # 2D_TopDown_TileBased_Java_Game
-This was a simple 2D top down tiles based game i made in Java in my free time.
+This was a simple 2D top down tiles based game I made in Java in my free time.
 
 ![Sample Image](https://github.com/MarcoNadalin/2D_TopDown_TileBased_Java_Game/blob/master/res/textures/2D_Game_Image.PNG)
 
